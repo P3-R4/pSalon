@@ -20,5 +20,7 @@ https://streamable.com/i9wtj5
 }
 ```
 
-
-
+# Todo
+- mogucnost kupovanja vozila za mafije
+- dodati mogucnost markera umesto targeta
+- test voznju zavrsiti
