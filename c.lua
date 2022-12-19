@@ -19,10 +19,10 @@ AddEventHandler('prikazi', function(args)
                DisplayRadar(false)
                FreezeEntityPosition(PlayerPedId(), true )
                zigaBugule()
-               exports['sCore']:notifikacija('[E] - da izadjes')
+               notifikacija('[E] - da izadjes', 'info')
             end)
         else 
-            exports['sCore']:notifikacija('Spawnpoint je blokiran, vozilo ce biti obrisano za 5 sekundi')
+            notifikacija('Spawnpoint je blokiran, vozilo ce biti obrisano za 5 sekundi','info')
             Wait(5000)
             obrisiVozila(xyz)
         end
