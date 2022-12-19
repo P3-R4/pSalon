@@ -3,6 +3,9 @@ Potrebne skripte
 - ox_lib
 - es_extended
 
+# Preview 
+https://streamable.com/i9wtj5
+
 # Item 
 ```lua
 ['katalog'] = {
