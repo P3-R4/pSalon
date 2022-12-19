@@ -2,7 +2,8 @@
 Potrebne skripte 
 - ox_lib
 - es_extended
-
+# Mapa 
+https://forum.cfx.re/t/free-mlo-sandy-mechanic-renovated-auto-repairs-shop/4928136/3
 # Preview 
 https://streamable.com/i9wtj5
 
